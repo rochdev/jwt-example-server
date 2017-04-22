@@ -1,5 +1,7 @@
 # jwt-example-server
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/rochdev/jwt-example-server.svg)](https://greenkeeper.io/)
+
 ## Setup for development
 
 ```sh
